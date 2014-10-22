@@ -1,4 +1,4 @@
-<h2>Kauli Student</h2>
+<h2>Kuali Student</h2>
 See: <a href="http://www.kuali.org/ks">http://www.kuali.org/ks</a>
 
 <h2>Intent</h2>
